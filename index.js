@@ -18,5 +18,5 @@ function generateBoard (num) {
     }
     return result;
 };
-
-console.log(generateBoard(10));
+//sudah dinamis
+console.log(generateBoard(8));
